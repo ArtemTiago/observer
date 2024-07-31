@@ -1,0 +1,5 @@
+2024-07-30 22:24:19 - INSERT - Temperatura: 20.0, Pressão: 20.0, Umidade: 20.0
+2024-07-30 22:24:49 - INSERT - Temperatura: 23.0, Pressão: 20.0, Umidade: 20.0
+2024-07-30 22:28:37 - INSERT - Temperatura: 23.0, Pressão: 25.0, Umidade: 21.0
+2024-07-30 22:28:47 - INSERT - Temperatura: 23.0, Pressão: 25.0, Umidade: 21.0
+2024-07-30 22:28:49 - DELETE - Temperatura: 23.0, Pressão: 25.0, Umidade: 21.0
